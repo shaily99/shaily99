@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a first-year PhD student at the Language Technologies Institute at CMU where I am advised by Prof. Fernando Diaz. These days I am thinking a lot about inclusive systems and socially-aware evaluations. I am also interested in exploring how language, technology, and society interact and shape each other, ultimately to develop technology that can create positive impact for diverse user groups.
+
+Prior to CMU, I was Predoctoral Researcher working at the NLU Group at Google Research, India where I worked with Dr. Partha Talukdar and Dr. Vinodkumar Prabhakaran on bias and fairness in multilingual models in the Indian context. Before that I spent a year at Microsoft Research, India. I worked with Dr. Sunayana Sitaram and Dr. Monojit Choudhary on interpretable evaluation of multilingual NLP models. 
+
+I graduated from BITS Pilani with a B.E in Computer Science in 2021. During my undergrad, I worked on multimodal fake news detection, knowledge-based fact verification, and domain adaptation.
